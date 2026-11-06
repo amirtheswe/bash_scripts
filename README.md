@@ -1,4 +1,4 @@
-# devops_scripts
+# bash_scripts
 
 A collection of Bash automation scripts for common DevOps tasks: backups, log rotation, and system resource monitoring. Written and tested on Ubuntu.
 
